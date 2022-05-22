@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS eManager;
+CREATE DATABASE eManager;
+USE eManager;
